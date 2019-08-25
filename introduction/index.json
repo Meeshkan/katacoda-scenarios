@@ -31,7 +31,7 @@
       "courseData": "courseBase.sh"
     },
     "assets": {
-      "host01": [
+      "client": [
         {
           "file": "package.json",
           "target": "~/"
