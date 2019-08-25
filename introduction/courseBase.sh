@@ -1,1 +1,1 @@
-echo "Welcome to the Unmock tutorial!"
+git clone https://github.com/unmock/unmock-katacoda-tutorial-base && npm install
