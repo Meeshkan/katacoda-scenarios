@@ -1,1 +1,1 @@
-git clone https://github.com/unmock/unmock-katacoda-tutorial-base && npm install
+git clone https://github.com/unmock/unmock-katacoda-tutorial && npm install
