@@ -1,0 +1,1 @@
+Let's start with a very simple repo that fetches user profiles from a API. We have one file, getUIUsers.js, that defines the fetching function and one file, getUIUsers.test.js, that tests our function.

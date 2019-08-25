@@ -1,28 +1,28 @@
 {
-  "title": "Unmock tutorial",
+  "title": "Unmock for humans",
   "description": "A gentle introduction to integration testing with Unmock",
   "difficulty": "Beginner",
   "time": "15 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Your first test",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Great expectations",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Property testing",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Side effects",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Service definition",
         "text": "step5.md"
       }
     ],
