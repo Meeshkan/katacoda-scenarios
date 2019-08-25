@@ -30,6 +30,18 @@
       "text": "intro.md",
       "courseData": "courseBase.sh"
     },
+    "assets": {
+      "host01": [
+        {
+          "file": "package.json",
+          "target": "~/"
+        },
+        {
+          "file": "package-lock.json",
+          "target": "~/"
+        }
+      ]
+    },  
     "finish": {
       "text": "finish.md"
     }
