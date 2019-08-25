@@ -30,18 +30,6 @@
       "text": "intro.md",
       "courseData": "courseBase.sh"
     },
-    "assets": {
-      "client": [
-        {
-          "file": "package.json",
-          "target": "~/"
-        },
-        {
-          "file": "package-lock.json",
-          "target": "~/"
-        }
-      ]
-    },  
     "finish": {
       "text": "finish.md"
     }
