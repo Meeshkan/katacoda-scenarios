@@ -14,15 +14,15 @@
         "text": "step2.md"
       },
       {
-        "title": "Property testing",
+        "title": "Fuzz testing",
         "text": "step3.md"
       },
       {
-        "title": "Side effects",
+        "title": "Spies",
         "text": "step4.md"
       },
       {
-        "title": "Service definition",
+        "title": "OpenAPI",
         "text": "step5.md"
       }
     ],
