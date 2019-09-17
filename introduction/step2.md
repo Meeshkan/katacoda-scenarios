@@ -1,4 +1,4 @@
-We see that, in `getUsersForUI1.test.js`, we define a mocked service. The syntax is very similar to that of [`nock`](https://github.com/nock/nock) with one notable exception: it is possible to define dynamic return values using the `u.<command>` syntax. For example, instead of hardcoding a name, we use `u.string()` to return an arbitrary string.
+Please click on the file `getUsersForUI1.test.js`. In it, you'll see a simple mocked service. The syntax is very similar to that of [`nock`](https://github.com/nock/nock) with one notable exception: it is possible to define dynamic return values using the `u.<command>` syntax. For example, instead of hardcoding a name, we use `u.string()` to return an arbitrary string.
 
 The advantage of using arbitrary values is twofold:
 
