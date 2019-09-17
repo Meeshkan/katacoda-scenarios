@@ -1,0 +1,1 @@
+Unmock may not cure all the world's problems, but it sure does help you need to test code that relies on an API. Learn more by reading our [documentation](https://www.unmock.io/docs/introduction).
