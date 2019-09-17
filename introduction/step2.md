@@ -5,4 +5,4 @@ The advantage of using arbitrary values is twofold:
 1. It forces test writers to focus on the structure of an API response rather than its content. Unless you are sure of the content an API will return, it is usually better to focus on the structure.
 1. It allows you to do fuzz testing of APIs, as we will explore in the next section.
 
-For now, we can run `npm test`{{npm test}} to see our tests pass with flying colors!
+For now, we can run `npm test getUsersForUI1.test.js`{{execute}} to see our tests pass with flying colors!
