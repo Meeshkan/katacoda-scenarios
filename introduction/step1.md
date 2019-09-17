@@ -1,1 +1,1 @@
-Let's start with a very simple project that fetches user profiles from an API and presents them in a webpage. We have one file, `getUsersForUI.js`, that defines the fetching function and one file, `getUIUsers.test.js`, that tests our function.
+Let's start with a very simple project that fetches user profiles from an API and presents them in a webpage. We have one file, `getUsersForUI.js`, that defines the fetching function and several files that test our function.
