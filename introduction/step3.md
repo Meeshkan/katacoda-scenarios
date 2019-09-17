@@ -14,4 +14,4 @@ Fuzzy wuzzy wuz a bear, and fuzz testing is when you do the same thing multiple 
 
 Mocks can be initialized with the `state` function that takes various useful tidbits of information. Here, `withCodes` specifies the code to return, and `minItems` makes sure there is at least one item in our array so that our test is testing the right thing!
 
-To see that in action, let's run `npm test getUsersForUI2.test.js`{{execute}} again.
+To see that in action, let's run `npm test getUsersForUI2.test.js`{{execute}}.
