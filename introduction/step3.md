@@ -1,4 +1,4 @@
-Let's mosy over to `getUIUsers2.test.js` and see a slightly more advanced version of the previous tests. We use the same general API with three important changes.
+Let's mosy over to `getUsersForUI1.test.js` and see a slightly more advanced version of the previous tests. We use the same general API with three important changes.
 
 ## Fluent specification
 
