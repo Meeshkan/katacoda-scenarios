@@ -8,6 +8,6 @@ Let's check out `getUsersForUI3.test.js`. We want to make sure that the response
 
 To do this, we'll use `example.spy.getResponseBody()`. See it in action by running `npm test getUsersForUI3.test.js`{{execute}}.
 
-`getResponseBody` has cousins like `postResponseBody`, `postRequestHeaders` and basically anything you'll need to write some amazing assertions. The example also shows how to use `sinon.assert` and its `calledOnce()` for writing tests that read like natural language!;
+`getResponseBody` has cousins like `postResponseBody`, `postRequestHeaders` and basically anything you'll need to write some amazing assertions. The example also shows how to use `sinon.assert` and its `calledOnce()` for writing tests that read like natural language!
 
 If you're using the `runner`, don't forget to call `resetHistory` if you want a clean state for your spies!
