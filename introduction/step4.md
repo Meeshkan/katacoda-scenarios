@@ -4,8 +4,8 @@ That's right, spies. Not like Boris and Natasha, but rather [`sinon`](https://ww
 
 ## Spy vs Spy
 
-Let's check out `getUsersForUI3.test.js`. We want to make sure that the response includes the *complete* response from the server *and* a `timestamp` and a `newlyFetched` field.
+Let's check out `3.test.js`. We want to make sure that the response includes the *complete* response from the server *and* a `timestamp` and a `newlyFetched` field.
 
 To do this, we'll use `example.spy.getResponseBody()`. See it in action by running `npm test getUsersForUI3.test.js`{{execute}}.
 
-`getResponseBody` has cousins like `postResponseBody`, `postRequestHeaders` and basically anything you'll need to write some amazing assertions. And, if you're using the `runner`, don't forget to call `resetHistory` if you want a clean state for your spies!
+`getResponseBody` has cousins like `postResponseBody`, `postRequestHeaders` and basically anything you'll need to write some amazing assertions.

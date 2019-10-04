@@ -1,1 +1,1 @@
-In this playground environment, you'll go from Unmock newbie to Unmock ninja in less than fifteen minutes. By the end, you'll have seen the most important and useful Unmock techniques that you can apply to your own projects. Simply click **Start Scenario** below to get started!
+Thanks for checking out unmock! By the end of this exercise, you'll have seen the most important and useful Unmock techniques that you can apply to your own projects. Click **Start Scenario** below to get started!

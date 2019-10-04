@@ -1,3 +1,3 @@
 If you have an OpenAPI spec for a service, feed it to unmock!  Here, we've included a specification for the ubiquitous petshop API in `__unmock__/petshop`. Unmock finds specifications in your `__unmock__` directory and automatically associates them with the name of the enclosing directory (in this case, `petshop`). Then, you can treat it like any other service - setting the state, using the runner and making some great expectations!
 
-Try it yourself by using `npm test getUsersForUI4.test.js`{{execute}}.
+Try it yourself by using `npm test 4.test.js`{{execute}}.
