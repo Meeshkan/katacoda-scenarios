@@ -4,7 +4,7 @@ Let's mosy over to `getUsersForUI1.test.js` and see a slightly more advanced ver
 
 Instead of defining just one possible response code, we can define several. This allows us with minimal effort to reproduce how an API will actually behave. For example, it is rare that an API never throws an error, and you almost always will want to test how your code handles error responses.
 
-In order to define multiple responses, simply continue adding to `unmock.nock`.
+In order to define multiple responses, continue adding to `unmock.nock`.
 
 ## Fuzz testing
 
