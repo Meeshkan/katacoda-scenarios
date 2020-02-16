@@ -8,7 +8,9 @@ In order to define multiple responses, continue adding to `unmock.nock`.
 
 ## Fuzz testing
 
-Fuzzy wuzzy wuz a bear, and fuzz testing is when you do the same thing multiple times with slight variations. Unmock's `runner` will take care of that for you - it runs your test several times with slightly different results depending on how you initialize the state.  Which leads us to...
+Fuzzy wuzzy wuz a bear, and fuzz testing is when you do the same thing multiple times with slight variations. Unmock's `runner` will take care of that for you - it runs your test several times (the default is 20) with slightly different results. For this tutorial, we will be importing a Jest configuration of the `runner` from a package called `unmock-jest-runner`.
+
+The results you get for your tests depend on how you initialize the state.  Which leads us to...
 
 ## Initializing mocks
 
